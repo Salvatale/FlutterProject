@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+chromadb
+smtplib
+email
+beautifulsoup4
+tiktoken
